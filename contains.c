@@ -6,6 +6,7 @@ int contains(int item, int arr[], int size) {
 			return 1;
 		}
 	 }
+     	# 
 	 return 0;
 }
 
